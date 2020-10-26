@@ -11,6 +11,21 @@ body {
 hr {
 	border-color: white;
 }
-#why hr {
-	border-color: #d62700;
+nav {
+	padding-top: 10px;
+}
+nav .p-why {
+	border-color: #00AEEF;
+}
+nav .p-how {
+	border-color: #8FC73E;
+}
+nav .p-portal {
+	border-color: #636363;
+}
+nav .p-tools {
+	border-color: #ff0707;
+}
+nav .p-extend {
+	border-color: #939393;
 }
