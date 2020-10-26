@@ -1,0 +1,16 @@
+---
+---
+{% include css/base.css %}
+{% include css/skeleton.css %}
+{% include css/main.css %}
+
+body {
+	text-align: center;
+}
+
+hr {
+	border-color: white;
+}
+#why hr {
+	border-color: #d62700;
+}
