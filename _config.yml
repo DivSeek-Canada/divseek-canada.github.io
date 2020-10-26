@@ -28,8 +28,8 @@ colors:
   red:       '#8e1a00'
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#00AEEF'
-  green:     '#8FC73E'
+  blue:      '#00487F'
+  green:     '#669C21'
 
 kramdown:
   auto_ids:  false
